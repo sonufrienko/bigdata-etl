@@ -1,0 +1,18 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-gyp configure build",
+    "start": "node index.js",
+    "pack": "rm consumer.zip; zip -r consumer.zip ."
+  },
+  "author": "Sergey Onufrienko",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/datastore": "^4.1.2",
+    "@google-cloud/pubsub": "^0.30.1",
+    "node-gyp": "^5.0.1"
+  }
+}
