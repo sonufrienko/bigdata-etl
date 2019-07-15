@@ -1,0 +1,8 @@
+{
+  "name": "finalNotification",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/datastore": "^4.1.2",
+    "@google-cloud/pubsub": "^0.30.1"
+  }
+}
