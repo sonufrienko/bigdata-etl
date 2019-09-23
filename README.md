@@ -1,4 +1,6 @@
-# BigData ETL
+# Serverless BigData ETL
+
+![](etl-gcp.png)
 
 We need
 - read text files from a folder
