@@ -1,6 +1,6 @@
 # Serverless BigData ETL
 
-![](etl-gcp.png)
+![](etl-gcp2.png)
 
 We need
 - read text files from a folder
